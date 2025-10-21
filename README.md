@@ -9,7 +9,7 @@ A Full-Stack & AI-curious Product Builder in Paris ✨
 - Learning **React.js** & **Rails**  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/farah-ghalebi)
 -  Connect with me on [Instagram](https://www.instagram.com/farahghbi?igsh=MTIwMWtnaWI1dnE0&utm_source=qr)
-- I post about the **Human Side of Innovation** on my[LinkedIn](https://www.linkedin.com/in/farah-ghalebi)  
+- I post about the **Human Side of Innovation** on my [LinkedIn](https://www.linkedin.com/in/farah-ghalebi)  
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ghalebi)
