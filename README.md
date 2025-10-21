@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Farah</h1>
 
-<!--
-**farahghalebi/farahghalebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+A Full-Stack & AI-curious Product Builder in Paris ✨
+</p>
 
-Here are some ideas to get you started:
+- 🛠️ I’m building **Tudy** (journals → auto to-dos)
+- Product manager at **Raven KYC** ravenkyc.com
+- Learning **React.js** & **Rails**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/farah-ghalebi)  
+- I post about the **Human Side of Innovation** on Linkedin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ghalebi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/farahghbi?igsh=MTIwMWtnaWI1dnE0&utm_source=qr)
+
+### Languages & Tools
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
