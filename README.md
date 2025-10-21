@@ -6,6 +6,7 @@ A Full-Stack & AI-curious Product Builder in Paris ✨
 
 - 🛠️ I’m building **Tudy** (journals → auto to-dos)
 - Product manager at [Raven KYC](ravenkyc.com)
+- Startup Studio Director at (Remolab)[remolab.fr]
 - Learning **React.js** & **Rails**  
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/farah-ghalebi)
 -  Connect with me on [Instagram](https://www.instagram.com/farahghbi?igsh=MTIwMWtnaWI1dnE0&utm_source=qr)
