@@ -4,7 +4,7 @@
 A Full-Stack & AI-curious Product Builder in Paris ✨
 </p>
 
-- 🛠️ I’m building **Tudy** (journals → auto to-dos)
+- 🛠️ I’m building **Tudy** 
 - Product manager at [Raven KYC](https://www.ravenkyc.com)
 - Startup Studio Director at [Remolab](https://www.remolab.fr)
 - Learning **React.js** & **Rails**  
